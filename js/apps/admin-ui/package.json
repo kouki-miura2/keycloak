@@ -101,7 +101,7 @@
     "@types/react-dom": "^18.2.22",
     "@types/uuid": "^9.0.8",
     "@vitejs/plugin-react-swc": "^3.6.0",
-    "cypress": "^13.7.0",
+    "cypress": "^13.7.1",
     "cypress-axe": "^1.5.0",
     "cypress-split": "^1.21.0",
     "jsdom": "^24.0.0",
@@ -109,7 +109,7 @@
     "lightningcss": "^1.24.1",
     "ts-node": "^10.9.2",
     "uuid": "^9.0.1",
-    "vite": "^5.1.6",
+    "vite": "^5.2.6",
     "vite-plugin-checker": "^0.6.4",
     "vitest": "^1.4.0"
   }
